@@ -1,0 +1,18 @@
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe.config
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.pdb
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.dll
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.dll
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\Owin.dll
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.xml
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.xml
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csprojResolveAssemblyReference.cache
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.exe
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.pdb
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.dll
+Z:\Users\jamyers.ANDY\OneDrive\Visual Studio 2015\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\jamyers.ANDY\Documents\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe.config
+C:\Users\jamyers.ANDY\Documents\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.exe
+C:\Users\jamyers.ANDY\Documents\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.pdb
